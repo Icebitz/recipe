@@ -18,12 +18,15 @@ data/data_manifest.json
 runs/
 
 # IDE / OS
-.vscode/
 .idea/
 *.swp
 .DS_Store
 
 # Secrets
-.env
-.env.*
 !.env.example
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
